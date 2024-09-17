@@ -6,9 +6,9 @@
 
 ## 🌱 Current Learning Goals
 
-- Learning and exploring new technoligies
+- Learning and exploring new technologies
 - Exploring new programming paradigms and languages
-- Master Rust
+- Learn Rust
   
 # 📫 Reach me here vipulyadav0479@gmail.com
 
