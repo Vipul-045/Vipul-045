@@ -9,6 +9,7 @@
 - Learning and exploring new technologies
 - Exploring new programming paradigms and languages
 - Learn Rust
+- Explore more
   
 # 📫 Reach me here vipulyadav0479@gmail.com
 
