@@ -8,7 +8,7 @@
 
 - Learning and exploring new technologies
 - Exploring new programming paradigms and languages
-- Learn Rust
+- Web3 Enthusiasts
 - Explore more
   
 # 📫 Reach me here vipulyadav0479@gmail.com
