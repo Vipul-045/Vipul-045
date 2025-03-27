@@ -8,8 +8,7 @@
 
 - Learning and exploring new technologies
 - Exploring new programming paradigms and languages
-- Web3 Enthusiasts
-- Explore more
+- Web3 Enthusiast
   
 # 📫 Reach me here vipulyadav0479@gmail.com
 
