@@ -1,1 +1,1 @@
-<h3 align="center">Hey, I'm Vipul 🙋🏻‍♂️</h3>
+<h3 align="center">Hi, I'm Vipul👋🏻 </h3>
